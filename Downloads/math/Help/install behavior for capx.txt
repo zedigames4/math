@@ -1,0 +1,6 @@
+you need to istall "litetween" behaviour to be able to open the CAPX properly
+
+link: https://www.scirra.com/forum/behavior-litetween_t70700
+
+install: download the behavior and copy it into this directory ( or your own directory based on your system ):
+C:\Program Files\Construct 2\exporters\html5\behaviors

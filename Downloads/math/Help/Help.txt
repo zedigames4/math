@@ -1,0 +1,32 @@
+Thank you for your purchase
+
+what you received are the following:
+
+2 HTML5 Games 
+2 PSD Design files
+2 construct2 Capx files
+[ portrait and landscape versions ]
+this way you can choose the game with the perfect orientation for your platform, either desktops or mobiles
+
+
+HTML5 Game: 
+The HTML5 games are ready for the web, simply upload to any directory in your website:
+"http://www.yoursite.com/game/index.html"
+and tell your guests or players this url, that's it!
+
+
+Source Files (Construct 2 Capx):
+to modify the game, you will need the CAPX source file, contact me for an offer
+
+
+PSD Design files:
+to reskin, you can easily change the graphics and replace them inside construct 2 then re export
+or replace the images in the html > images folder
+
+
+
+
+
+if you need help or requests email me
+sparximer@outlook.com
+
